@@ -1,5 +1,8 @@
 ![libuv][libuv_banner]
 
+libuv alpinelinux install:
+autogen.sh && ./run.sh
+
 ## Overview
 
 libuv is a multi-platform support library with a focus on asynchronous I/O. It
