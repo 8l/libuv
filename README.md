@@ -1,7 +1,7 @@
 ![libuv][libuv_banner]
 
 libuv alpinelinux install:
-autogen.sh && ./run.sh
+./autogen.sh && ./run.sh
 
 ## Overview
 
